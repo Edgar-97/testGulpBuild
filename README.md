@@ -5,7 +5,7 @@
 
 ## Структура каталогов для размещения файлов стилей и скриптов:
 
-> ./src/styles/\*\*/\*.less
+> ./src/styles/\*\*/\*.less  
 > ./src/scripts/\*\*/\*.js
 
 ## Инструкция
@@ -24,11 +24,11 @@
 
 ## Установленный NPM пакеты
 
-[gulp](https://www.npmjs.com/package/gulp) Сборщик Gulp
-[gulp-less](https://www.npmjs.com/package/gulp-less) Комптляция Less файлов
-[gulp-babel](https://www.npmjs.com/package/gulp-babel) Преобразует JavaScript в старый стандарт
-[gulp-concat](https://www.npmjs.com/package/gulp-concat) Объединение нескольких файлов в один
-[gulp-uglifly](https://www.npmjs.com/package/gulp-uglifly) Сжатие и оптимизация JavaScript кода
-[gulp-rename](https://www.npmjs.com/package/gulp-rename) Переименовывать фалы
-[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) Минификация и оптимизация CSS фалов
+[gulp](https://www.npmjs.com/package/gulp) Сборщик Gulp  
+[gulp-less](https://www.npmjs.com/package/gulp-less) Комптляция Less файлов  
+[gulp-babel](https://www.npmjs.com/package/gulp-babel) Преобразует JavaScript в старый стандарт  
+[gulp-concat](https://www.npmjs.com/package/gulp-concat) Объединение нескольких файлов в один  
+[gulp-uglifly](https://www.npmjs.com/package/gulp-uglifly) Сжатие и оптимизация JavaScript кода  
+[gulp-rename](https://www.npmjs.com/package/gulp-rename) Переименовывать фалы  
+[gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) Минификация и оптимизация CSS фалов  
 [del](https://www.npmjs.com/package/del) Удаление каталогов и файлов
